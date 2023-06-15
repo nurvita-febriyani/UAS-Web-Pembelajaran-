@@ -1,0 +1,15 @@
+document.writeln ("Rahma Mart") 
+document.writeln ("</br>")
+document.writeln ("</br>")
+
+document.writeln ("Apa itu bisnis Rahma Mart?")
+document.writeln ("</br>")
+document.writeln ("</br>")
+
+document.writeln (" Rahma Mart adalah toko grosir dan ecer atau ritel yang melayani kegiatan penjualan dan pembelian apapun mulai dari sembako, makanan kecil hingga barang-barang elektronik. Dalam menjual barang-barang tersebut toko ini dapat menjualnya dalam kuantitas grosir bagi para retailer lain yang ingin menjualnya kembali serta menjual secara ecer langsung kepada para pelanggannya")
+document.writeln ("</br>")
+document.writeln ("</br>")
+document.writeln ("Toko ini telah ada mulai dari awal tahun 2018, awalnya toko ini hanya menjual bahan-bahan sembako dan makanan kecil namun semakin lama semakin bberkembang dengan pesat dan mulai merenovasi tempatnya dan mulai mejual berbagai barang-barang elektronik")
+document.writeln ("</br>")
+document.writeln ("</br>")
+document.writeln ("Letak dari toko ini yaitu Kopat RT 06 RW 02 Karangsari Pengasih Kulonprogo, Pengasih, Jawa Tengah, Indonesia 55652. dapat dikatakan tempat ini cukup strategis karena populasi penduduk pada daerah sekitar dapat dikatakan banyak sehingga toko tersebut akan sering dikunjungi oleh orang-orang")
